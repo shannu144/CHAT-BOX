@@ -1,0 +1,246 @@
+[
+    {
+        "input": "hello",
+        "output": "Hello! How can I help you today?"
+    },
+    {
+        "input": "hi",
+        "output": "Hi there! What would you like to do?"
+    },
+    {
+        "input": "hey",
+        "output": "Hey! I'm here — how can I help?"
+    },
+    {
+        "input": "good morning",
+        "output": "Good morning! Hope you have a productive day."
+    },
+    {
+        "input": "good afternoon",
+        "output": "Good afternoon! How's your day going so far?"
+    },
+    {
+        "input": "good evening",
+        "output": "Good evening! Need any help before you log off?"
+    },
+    {
+        "input": "good night",
+        "output": "Good night! Sleep well — see you later."
+    },
+    {
+        "input": "who are you",
+        "output": "I'm the AI assistant for this chat app. I can answer questions, help with the app, or chat with you."
+    },
+    {
+        "input": "what can you do",
+        "output": "I can answer FAQs about the app, join chat rooms as a bot, summarize conversations, and help with common issues."
+    },
+    {
+        "input": "how do i sign up",
+        "output": "Go to the Signup page, fill in your name and email, choose a password, and click 'Create account'."
+    },
+    {
+        "input": "how do i login",
+        "output": "Use the Login page and enter your email and password, then click 'Sign in'."
+    },
+    {
+        "input": "i forgot my password",
+        "output": "Click 'Forgot Password' on the login screen and follow the instructions to reset it via email."
+    },
+    {
+        "input": "how to change my password",
+        "output": "Go to Settings → Account → Change Password and follow the prompts."
+    },
+    {
+        "input": "how to edit profile",
+        "output": "Open your profile from the top-right, click Edit, update fields like name or avatar, then Save."
+    },
+    {
+        "input": "how to upload avatar",
+        "output": "In your profile, choose Upload Avatar, pick an image file and save. File types like .png and .jpg work best."
+    },
+    {
+        "input": "how to create a group chat",
+        "output": "From the Chats page click 'New Group', add members and a name, then click 'Create'."
+    },
+    {
+        "input": "how to add members to group",
+        "output": "Open the group chat, click Members → Add member, then search and select users to add."
+    },
+    {
+        "input": "how to leave a group",
+        "output": "Open group settings and click 'Leave Group'. Confirm to remove yourself."
+    },
+    {
+        "input": "how to delete a message",
+        "output": "Hover over the message, click the three dots, then choose 'Delete' (if you have permission)."
+    },
+    {
+        "input": "what is socket.io",
+        "output": "Socket.IO provides real-time, bi-directional communication between client and server — perfect for live chat."
+    },
+    {
+        "input": "how does real-time messaging work",
+        "output": "Clients connect to the server via WebSockets (Socket.IO). When one user sends a message, server emits it to other participants instantly."
+    },
+    {
+        "input": "how to see who is online",
+        "output": "Open the online users list in the sidebar — it shows users who are currently connected."
+    },
+    {
+        "input": "what is a read receipt",
+        "output": "A read receipt indicates that the recipient has opened and viewed the message."
+    },
+    {
+        "input": "how to enable notifications",
+        "output": "Go to Settings → Notifications and turn on desktop and/or push notifications."
+    },
+    {
+        "input": "why am i not receiving notifications",
+        "output": "Check your browser permissions and notification settings in the app. Also make sure your device is online."
+    },
+    {
+        "input": "how to send images",
+        "output": "Click the attach/paperclip icon in chat, select an image, and send. Large files may take longer to upload."
+    },
+    {
+        "input": "file upload failed",
+        "output": "Upload may fail due to size or network. Try reducing file size or uploading again. If it persists, check your connection."
+    },
+    {
+        "input": "how to search messages",
+        "output": "Use the search bar at the top of the chat list — type keywords and hit Enter to find messages."
+    },
+    {
+        "input": "can this bot join my room",
+        "output": "Yes — the AI bot can be added to rooms designated for bot participation or enabled by admins."
+    },
+    {
+        "input": "summarize our chat",
+        "output": "Sure — I can summarize. Please allow me a moment to read the recent messages and generate a short summary."
+    },
+    {
+        "input": "what did i say earlier",
+        "output": "I can look it up. Do you want me to fetch your last 10 messages from this conversation?"
+    },
+    {
+        "input": "tell me a joke",
+        "output": "Why do programmers prefer dark mode? Because light attracts bugs!"
+    },
+    {
+        "input": "give me a coding joke",
+        "output": "Why do Java developers wear glasses? Because they don't C#."
+    },
+    {
+        "input": "i'm bored",
+        "output": "Want to hear a joke, play a quick trivia, or get a fun fact?"
+    },
+    {
+        "input": "motivate me",
+        "output": "You are capable of more than you realize. Take one small step today and you'll be closer than you were yesterday."
+    },
+    {
+        "input": "i am sad",
+        "output": "I'm sorry you're feeling this way. If you'd like, tell me more and I can try to help or share calming tips."
+    },
+    {
+        "input": "i am stressed",
+        "output": "Take a deep breath. Would you like a short breathing exercise or some productivity tips?"
+    },
+    {
+        "input": "what languages do you support",
+        "output": "The chat app supports text in many languages; the AI primarily responds in English but can be trained for other languages."
+    },
+    {
+        "input": "can you translate",
+        "output": "I can help with short translations. Tell me the text and the target language."
+    },
+    {
+        "input": "translate hi to spanish",
+        "output": "'Hi' in Spanish is 'Hola'."
+    },
+    {
+        "input": "how to block a user",
+        "output": "Open the user's profile, click the three dots, and select 'Block'. Blocked users cannot message you."
+    },
+    {
+        "input": "how to unblock someone",
+        "output": "Go to Settings → Privacy → Blocked users, find the person and click 'Unblock'."
+    },
+    {
+        "input": "how to report a user",
+        "output": "Open the conversation, click 'Report' and provide details. Admins will review the report."
+    },
+    {
+        "input": "what's GDPR",
+        "output": "GDPR is a privacy regulation for EU users. Our app allows users to request data and manage privacy settings."
+    },
+    {
+        "input": "how to delete my account",
+        "output": "Go to Settings → Account → Delete Account. This will remove your data after confirmation."
+    },
+    {
+        "input": "is my chat encrypted",
+        "output": "Messages are stored securely. For end-to-end encryption, enable the E2E option if available in settings."
+    },
+    {
+        "input": "how to enable dark mode",
+        "output": "Go to Settings → Appearance and toggle Dark Mode."
+    },
+    {
+        "input": "how to logout",
+        "output": "Click your profile and choose 'Logout' to sign out of the app."
+    },
+    {
+        "input": "why is typing indicator not showing",
+        "output": "Ensure you have internet connectivity and that typing indicators are enabled in Settings."
+    },
+    {
+        "input": "typing indicator is showing for me only",
+        "output": "That may be due to delayed socket events. Try reconnecting or check server logs."
+    },
+    {
+        "input": "how to clear chat history",
+        "output": "Open chat settings and choose 'Clear History'. This removes local or server-stored messages depending on your permissions."
+    },
+    {
+        "input": "can i edit messages",
+        "output": "If message editing is enabled, hover over the message and choose 'Edit'. Edits may show an 'edited' label."
+    },
+    {
+        "input": "how to pin a message",
+        "output": "Open the message actions and select 'Pin to top' to highlight it for the group."
+    },
+    {
+        "input": "how to react to a message",
+        "output": "Hover over a message and click the reaction emoji to add a quick reaction."
+    },
+    {
+        "input": "can i use markdown",
+        "output": "Yes — basic markdown like *italics*, **bold**, and `inline code` is supported in messages."
+    },
+    {
+        "input": "show me the commands",
+        "output": "Common commands: /help, /me, /nick, /leave, /invite — type /help for the full list."
+    },
+    {
+        "input": "what is /me command",
+        "output": "Type /me followed by an action and the chat shows it as an action by you (e.g., '/me is thinking')."
+    },
+    {
+        "input": "how to invite someone",
+        "output": "Click the chat header → Invite and search for the user to send an invite link."
+    },
+    {
+        "input": "how to make admin",
+        "output": "Only current admins can grant admin rights in group settings under Members → Roles."
+    },
+    {
+        "input": "how to mute notifications",
+        "output": "Open chat settings and toggle 'Mute notifications' for the conversation."
+    },
+    {
+        "input": "how to set status",
+        "output": "Click your profile → Status and choose or type a custom status like 'Busy' or 'Working'."
+    }
+]

@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600&display=swap");
+
+:root {
+  --bg-primary: #343541;
+  --bg-secondary: #202123;
+  --bg-input: #40414F;
+  --text-primary: #ECECF1;
+  --text-secondary: #C5C5D2;
+  --text-placeholder: #8e8ea0;
+  --border-color: #565869;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: "Work Sans", sans-serif;
+  overflow: hidden;
+  /* Hide scrollbar for cleaner look */
+}
+
+.App {
+  min-height: 100vh;
+  /* display: flex;  <-- Causing half-width issue if child doesn't grow */
+  display: block;
+  width: 100%;
+  background-image: none;
+  /* Remove default image if any */
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #565869;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #acacbe;
+}
