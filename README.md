@@ -2,7 +2,7 @@
 
 A modern, feature-rich real-time chat application built with the MERN stack, featuring AI integration, voice notes, emoji picker, and online status indicators.
 
-![VITCHAT Banner](./screenshots/banner.png)
+![VITCHAT Banner](./screenshots/vitchat-banner.png)
 
 ## ✨ Features
 
